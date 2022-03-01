@@ -1,5 +1,5 @@
 
-# Modern Tech UI 
+# Modern Restaurant UI 
 
 This project was created to convert a Figma Landing Page for a restaurant into a Web Application
 ## Acknowledgements
